@@ -4,7 +4,8 @@ body {
 }
 
 .weather-app {
-  background: white;
+  background: linear-gradient(135deg, #00feba, #5b548a);
+  color: #fff;
   max-width: 600px;
   margin: 45px auto;
   box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
@@ -18,7 +19,7 @@ header {
 }
 
 a {
-  color: #1d3557;
+  color: #fff;
 }
 
 .weather-app-city {
